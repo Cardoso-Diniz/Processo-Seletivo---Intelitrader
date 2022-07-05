@@ -7,7 +7,7 @@
 
 ## <p align="center">GitHub - Processo Seletivo 📝</p>
 <p align="center">Link do processo seletivo</p>
-<p align="center"><a href="https://github.com/Cardoso-Diniz/quero-ser"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> </a></p>
+<p align="center"><a href="https://github.com/Cardoso-Diniz/quero-ser"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a></p>
 
 ## Desafios Desenvolvidos!!
 ## <p align="center"> DojoPuzzles.com - FizzBuzz</p>
